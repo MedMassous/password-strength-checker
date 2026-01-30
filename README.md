@@ -1,4 +1,4 @@
-markdown# Password Strength Checker
+Password Strength Checker
 
 A lightweight Python tool that checks how strong your passwords are. Built to learn about security basics and pattern matching.
 
