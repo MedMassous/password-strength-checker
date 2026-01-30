@@ -48,7 +48,7 @@ password-strength-checker/
 
 ─ README.md
 
-##Data Source
+## Data Source
 
 The file common_passwords.txt contains a list of common passwords from a public dataset:
 
