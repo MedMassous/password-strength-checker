@@ -25,7 +25,9 @@ Enter a password: test123
 Weak password detected:
 - Missing special characters
 - Too short (minimum 8 characters)
-What I Learned
+```
+## What I Learned
+
 Using regular expressions in Python
 
 Basic password security concepts
@@ -35,7 +37,7 @@ Input validation
 Reading and processing files
 
 Writing simple security-focused scripts
-```
+
 ## Project Structure
 password-strength-checker/
 ├── password_checker.py
