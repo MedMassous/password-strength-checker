@@ -35,24 +35,24 @@ Input validation
 Reading and processing files
 
 Writing simple security-focused scripts
-
-Project Structure
+```
+## Project Structure
 password-strength-checker/
 ├── password_checker.py
 ├── common_passwords.txt
-├── README.md
-└── requirements.txt
-Data Source
+─ README.md
+
+##Data Source
 The file common_passwords.txt contains a list of common passwords from a public dataset:
 
 https://github.com/iryndin/10K-Most-Popular-Passwords
 
-Technologies
+## Technologies
 Python 3
 
 Regular expressions
 
-Future Improvements
+## Future Improvements
 Add password strength scoring
 
 Check passwords against breach databases
@@ -61,23 +61,8 @@ Convert the script into a CLI tool
 
 Add password generation
 
-Notes
+## Notes
 This project is intentionally kept simple and beginner-friendly, with a focus on understanding security basics rather than building a production tool.
 
 
 ---
-
-### Why this version is better
-- **No emojis** (professional GitHub look)
-- Clean heading hierarchy
-- Proper fenced code blocks
-- No broken inline Markdown
-- Renders correctly in GitHub preview
-
-If you want, next I can:
-- Rewrite it to sound **SOC / blue-team oriented**
-- Add a **LICENSE**
-- Add **badges**
-- Turn this into a **portfolio-level project**
-
-Say the word.
