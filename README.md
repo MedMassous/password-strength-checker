@@ -39,9 +39,13 @@ Reading and processing files
 Writing simple security-focused scripts
 
 ## Project Structure
+
 password-strength-checker/
+
 ├── password_checker.py
+
 ├── common_passwords.txt
+
 ─ README.md
 
 ##Data Source
