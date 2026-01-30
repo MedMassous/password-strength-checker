@@ -35,7 +35,7 @@ This project helped me understand:
 ## Files
 
 - `password_checker.py` - main script
-- `common_passwords.txt` - list of weak passwords to check against
+- `common_passwords.txt` - list of 10K most common passwords (source: [10K-Most-Popular-Passwords](https://raw.githubusercontent.com/iryndin/10K-Most-Popular-Passwords/master/passwords.txt))
 - `requirements.txt` - dependencies (if any)
 
 ## Tech
