@@ -1,4 +1,3 @@
-I'll help you create a cleaner, more natural GitHub student profile README for your password checker project. Here's a simplified version that feels authentic:
 markdown# Password Strength Checker
 
 A lightweight Python tool that checks how strong your passwords are. Built to learn about security basics and pattern matching.
