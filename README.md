@@ -43,6 +43,7 @@ password-strength-checker/
 ─ README.md
 
 ##Data Source
+
 The file common_passwords.txt contains a list of common passwords from a public dataset:
 
 https://github.com/iryndin/10K-Most-Popular-Passwords
