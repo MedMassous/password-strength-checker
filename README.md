@@ -3,6 +3,8 @@
 A simple Python tool that evaluates password strength by detecting weak patterns and common security issues.  
 This project was created to practice security fundamentals and pattern matching using Python.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/medmassous/password-strength-checker/badge)](https://www.codefactor.io/repository/github/medmassous/password-strength-checker)
+
 ## Features
 
 - Checks minimum password length
